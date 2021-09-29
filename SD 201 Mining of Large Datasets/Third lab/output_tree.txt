@@ -1,0 +1,166 @@
+
+Root
+Level 0
+Feature Sex 0
+Gini 0.4723650263627057
+ 
+Intermediate
+Level 1
+Feature PClass 1 2
+Gini 0.384430473372781
+*****
+Intermediate
+Level 1
+Feature PClass 1
+Gini 0.3064437162277842
+ 
+Intermediate
+Level 2
+Feature Embarked 0 1
+Gini 0.10140306122448983
+*****
+Intermediate
+Level 2
+Feature Embarked 0 1
+Gini 0.5
+*****
+Intermediate
+Level 2
+Feature Embarked 0
+Gini 0.46560064498790643
+*****
+Intermediate
+Level 2
+Feature Embarked 0
+Gini 0.24174858108924055
+ 
+Intermediate
+Level 3
+Feature PClass 1
+Gini 0.03702385190459245
+*****
+Intermediate
+Level 3
+Feature PClass 1
+Gini 0.1294517958412098
+*****
+Intermediate
+Level 3
+Feature Embarked 0
+Gini 0.42283163265306123
+*****
+Leaf
+Level 3
+Class 0
+Gini 0.46875
+*****
+Leaf
+Level 3
+Class 0
+Gini 0.48185941043083896
+*****
+Intermediate
+Level 3
+Feature Embarked 0 1
+Gini 0.4549999999999999
+*****
+Intermediate
+Level 3
+Feature PClass 1 2
+Gini 0.3503025987896047
+*****
+Intermediate
+Level 3
+Feature Embarked 0 1
+Gini 0.2252419494566966
+ 
+Intermediate
+Level 4
+Feature Embarked 0
+Gini 0.044421487603305776
+*****
+Leaf
+Level 4
+Class 1
+Gini 0.0
+*****
+Leaf
+Level 4
+Class 1
+Gini 0.07986111111111094
+*****
+Leaf
+Level 4
+Class 1
+Gini 0.16306527066161736
+*****
+Leaf
+Level 4
+Class 1
+Gini 0.4536862003780718
+*****
+Leaf
+Level 4
+Class 1
+Gini 0.39669421487603307
+*****
+Leaf
+Level 4
+Class 0
+Gini 0.0
+*****
+Leaf
+Level 4
+Class 0
+Gini 0.4576189713186989
+*****
+Leaf
+Level 4
+Class 0
+Gini 0.31999999999999984
+*****
+Leaf
+Level 4
+Class 0
+Gini 0.35694970254191455
+*****
+Intermediate
+Level 4
+Feature PClass 1 2
+Gini 0.13874999999999993
+*****
+Intermediate
+Level 4
+Feature PClass 1 2
+Gini 0.2340740514636306
+ 
+Leaf
+Level 5
+Class 1
+Gini 0.045429962141698255
+*****
+Leaf
+Level 5
+Class 1
+Gini 0.0
+*****
+Leaf
+Level 5
+Class 0
+Gini 0.0
+*****
+Leaf
+Level 5
+Class 0
+Gini 0.1420118343195265
+*****
+Leaf
+Level 5
+Class 0
+Gini 0.2614518014666809
+*****
+Leaf
+Level 5
+Class 0
+Gini 0.2236810252758989
+ 
